@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\150519_04\150519_04\bin\Debug\150519_04.exe.config
+c:\users\hackeru\source\repos\150519_04\150519_04\bin\Debug\150519_04.exe
+c:\users\hackeru\source\repos\150519_04\150519_04\bin\Debug\150519_04.pdb
+c:\users\hackeru\source\repos\150519_04\150519_04\obj\Debug\150519_04.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\150519_04\150519_04\obj\Debug\150519_04.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\150519_04\150519_04\obj\Debug\150519_04.exe
+c:\users\hackeru\source\repos\150519_04\150519_04\obj\Debug\150519_04.pdb

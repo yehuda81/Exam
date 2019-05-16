@@ -10,9 +10,7 @@ namespace _150519_04
     {
         //public string word { get; set; }
         static void Main(string[] args)
-        {
-           
-       
+        { 
             Game(); 
         }
 
@@ -28,10 +26,8 @@ namespace _150519_04
                 nihushimim++;
                 for (int i = 0; i < country.Length; i++)
                 {
-
                     if (country[i] == Letter[0])
                     {
-
                         Console.Write(" ");
                         Console.Write(country[i]);
                         Console.Write(" ");
@@ -40,10 +36,7 @@ namespace _150519_04
                     else
                     {
                         Console.Write(" _ ");
-
-                    }
-                   
-                   
+                    } 
                 }
                 Console.WriteLine();
             }
@@ -64,22 +57,19 @@ namespace _150519_04
             {
                 Console.WriteLine("by by");
             }
-
-
         }
 
         public static string RandomCountry(List<string> Countries)
         {
             Random rnd = new Random();
             int r = rnd.Next(5);
-            Console.WriteLine(Countries[r]);            
+            //Console.WriteLine(Countries[r]);            
             for (int i = 0; i < Countries[r].Length; i++)
             {
                 Console.Write(" _ ");
             }
             Console.WriteLine();
-            return Countries[r];
-            
+            return Countries[r];            
         }
     }
 }
